@@ -1,5 +1,7 @@
 # Agente BOP Inteligente
 
+![Interface Jarvis BOP](static/screenshot.svg)
+
 Assistente de voz com IA para registro automático de ocorrências elétricas (BOP) em subestações e parques eólicos.
 
 ## Funcionalidades
