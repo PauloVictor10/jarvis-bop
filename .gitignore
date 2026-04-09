@@ -1,0 +1,22 @@
+# Credenciais — NUNCA subir
+.env
+credentials.json
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
